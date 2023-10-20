@@ -29,3 +29,4 @@ A tool for Visualizing Various path Finding algorithms Built
 4. Users can optionally choose to clear the maze or draw walls by clicking and dragging the mouse.
 5. Users can optionally randomize the walls in the maze and add more walls by dragging the mouse.
 
+<img src = 'https://github.com/vivianw969/Path-finding_Visualizer/blob/main/Demo1.gif'>
